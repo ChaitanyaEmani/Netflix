@@ -9,6 +9,7 @@ HTML and CSS
 ## Code Explanation
 
 ### Header Section: 
+
 Within the <body> section, I have  declared a <div> with the class "header" representing the header of the Netflix clone. It includes a navigation bar with a Netflix logo image and a "Sign In" button. Below the navigation, there is a section with a header, subheader, and an email sign-up form.
 
 ### Feature Section: 
